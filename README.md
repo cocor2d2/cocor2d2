@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cocor2d2
+- 👀 I’m interested in Python Game programming!
+- 🌱 I’m currently learning MORE PYTHON!
+- 💞️ I’m looking to collaborate with a Space Club that needs coding for softwares
